@@ -37,7 +37,7 @@
 ## 3. 원생 정보 관리 탭 
 ### 원생 추가를 통해  **원생 정보 추가 및 수정**
 ![원생정보](https://user-images.githubusercontent.com/106574819/200180289-441406c5-17d1-4289-be6d-05e16cd024fe.gif)
-## 4.수강 관리 탭 
+## 4.납부 관리 탭 
 ### 원생의 **수강 납부 이력**을 조회하고, 정보 입력
 ![수납처리](https://user-images.githubusercontent.com/106574819/200180275-c27f4bed-14fb-4477-a260-db660c21a4fa.gif)
 ## 통계 및 출석부 탭
