@@ -9,7 +9,10 @@
 ![전체동작](https://user-images.githubusercontent.com/106574819/200180248-97e6f3f6-3815-474e-a971-3e81b8d6c6af.gif)
 
 😊자세한 내용은 아래 파일을 다운받아 보실 수 있습니다.
-[Oh_Attendance.pdf](https://github.com/IrisNamu/ANABADA/files/9946200/Oh_Attendance.pdf)
+[출석관리프로그램(Swing).pdf](https://github.com/IrisNamu/Oh_Attendance/files/10072446/Swing.pdf)
+<br>
+핵식만 요약한 pdf 파일
+[출석관리프로그램(Swing) - 제출용.pdf](https://github.com/IrisNamu/Oh_Attendance/files/10072448/Swing.-.pdf)
 
 
 ### 🛠️ 사용 기술 및 라이브러리
