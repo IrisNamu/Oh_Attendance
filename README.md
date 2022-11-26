@@ -12,8 +12,9 @@
 [출석관리프로그램(Swing).pdf](https://github.com/IrisNamu/Oh_Attendance/files/10072446/Swing.pdf)
 <br>
 <br>
-핵심만 요약한 pdf 파일<br>
-[출석관리프로그램(Swing) - 제출용.pdf](https://github.com/IrisNamu/Oh_Attendance/files/10072448/Swing.-.pdf)
+핵심만 요약한 pdf 파일(9장)<br>
+[송유진_출석관리프로그램(Swing).pdf](https://github.com/IrisNamu/Oh_Attendance/files/10095533/_.Swing.pdf)
+
 
 
 ### 🛠️ 사용 기술 및 라이브러리
